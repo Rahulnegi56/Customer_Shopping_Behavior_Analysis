@@ -7,9 +7,9 @@ A end-to-end data analysis project exploring customer purchasing patterns across
 Ever wonder what makes customers tick — why they buy, how often, and how much they spend? This project digs into those questions using real transactional retail data. The goal was to surface actionable insights around customer segmentation, discount behavior, product performance, and subscription patterns that can guide smarter business decisions.
 
 ## 📂 Dataset
-| Total Records | 3,900 purchases |
-| Features | 18 columns |
-| Missing Data | 37 values in *review_rating* (handled via median imputation) |
+Total Records = 3,900 purchases.
+Features  18 columns .
+Missing Data  37 values in *review_rating* (handled via median imputation)
 
 **Feature categories covered:**
 - **Demographics** — Age, Gender, Location, Subscription Status.
@@ -18,9 +18,9 @@ Ever wonder what makes customers tick — why they buy, how often, and how much 
 
 ## 🛠️ Tech Stack
 
-Python (Pandas) | Data cleaning, feature engineering, EDA.
-MYSQL | Business-level SQL analysis.
-Power BI | Interactive dashboard & visualization.
+Python (Pandas) for Data cleaning, feature engineering, EDA.
+MYSQL for Business-level SQL analysis.
+Power BI for Interactive dashboard & visualization.
 
 ## 🔍 What I Did
 

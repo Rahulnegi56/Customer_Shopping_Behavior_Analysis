@@ -18,9 +18,9 @@ Ever wonder what makes customers tick — why they buy, how often, and how much 
 
 ## 🛠️ Tech Stack
 
-Python (Pandas) for Data cleaning, feature engineering, EDA.
-MYSQL for Business-level SQL analysis.
-Power BI for Interactive dashboard & visualization.
+1. Python (Pandas) for Data cleaning, feature engineering, EDA.
+2. MYSQL for Business-level SQL analysis.
+3. Power BI for Interactive dashboard & visualization.
 
 ## 🔍 What I Did
 
